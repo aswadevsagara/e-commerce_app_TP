@@ -6,6 +6,7 @@ import 'package:get/get.dart';
 import 'consts/consts.dart';
 
 void main() async {
+  //This is the main function 
    
   WidgetsFlutterBinding.ensureInitialized();
   
@@ -46,3 +47,4 @@ class MyApp extends StatelessWidget {
     );
   }
 }
+
